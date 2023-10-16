@@ -1,2 +1,2 @@
 # SimpleLogIn
-test for git
+just test for git.
